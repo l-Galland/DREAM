@@ -1,0 +1,11 @@
+numpy
+torch==2.4.0+cu121
+learn2learn==0.2.0
+gym==0.26.2
+openai==1.66.3
+sentence-transformers==3.2.1
+transformers==4.46.3
+torchmetrics
+tqdm
+vllm==0.6.3.post1
+pandas
